@@ -43,7 +43,9 @@
 
 ## Repository Links
 
+[Finance Flow](https://github.com/KDVDimak/FinanceFlow) (Online Wallet) — Personal finance management web app or tracking income, expenses, and balance.
 
+[HTML-CSS-Templates](https://github.com/KDVDimak/HTML-CSS-Templates) (Mini Projects) - Collection of small web pages and templates demonstrating HTML and CSS skills.  
 
 ---
 
